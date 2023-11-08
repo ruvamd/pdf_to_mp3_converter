@@ -1,0 +1,13 @@
+altgraph==0.17.4
+certifi==2023.7.22
+charset-normalizer==3.3.2
+click==8.1.7
+gTTS==2.4.0
+idna==3.4
+macholib==1.16.3
+packaging==23.2
+pyinstaller==6.1.0
+pyinstaller-hooks-contrib==2023.10
+pypdf==3.17.0
+requests==2.31.0
+urllib3==2.0.7
